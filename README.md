@@ -1,6 +1,6 @@
 #### CC3K
 
-this is a c++ project which is make by me and my university friends such as a final project of course CS 246.
+this is a c++ project made by me and my friends such as a final project of course CS 246.
 
 To use this game, should put the Makefile into all files in folder "src", and run makefile in a Linux environment. 
 
